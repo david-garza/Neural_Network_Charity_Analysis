@@ -1,3 +1,6 @@
 # Data files
 *.csv
 *.hdf5
+
+# Model files
+*.h5
